@@ -3,11 +3,12 @@
 ### Projects:
 - Project 1 - Javascript Quiz: Create a quiz app, using javascript
 - Project 2 - jQuery Slider: Slide next, slide previous, auto slide, fade in, fade out 
-- Project 3 - Youtube Search Engine: Request data from Youtube Data API v3, show the results, using fancybox3 to watch youtube video in dialog
+- Project 3 - Youtube Search Engine: Search box animation, request data from Youtube Data API v3, show the results, using fancybox3 to watch youtube video in dialog box
 - Project 4 - Thumb Slider: Select thumb to choose slide, auto slide next
-- Project 5 - Portolio: Overlay effect, view full image in dialog, switch next, previous image with Lightbox2
+- Project 5 - Portolio: Overlay effect, view full image in dialog box, switch next, previous image with Lightbox2, responsive layout.
 
 ### Techniques:
+HTML5 & CSS3
 Javascript
 JQuery
 - Selector
